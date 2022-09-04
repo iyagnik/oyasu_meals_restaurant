@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Barlow-Medium
+font link: https://fonts.google.com/specimen/Barlow
+font author: Jeremy Tribby
+font author site: https://tribby.com/
+Slogan Font: Aleo-Light.otf
+
+icon designer: David Khai
+icon designer link: /kaxgyatso
+        
+{"bg":"transparent","icon":"#488eff","font":"#2e3034","slogan":"#424448"}
+      
